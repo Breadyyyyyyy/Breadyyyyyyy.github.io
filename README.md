@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Yang Wang</title>
 </head>
 <body>
     <h1>Yang Wang</h1>
